@@ -1,4 +1,4 @@
-//Taken from https://github.com/alex-paterson/todolist-auth-complete/blob/master/app/reducers/alertsReducer.js
+//Boilerplate from https://github.com/alex-paterson/todolist-auth-complete/blob/master/app/reducers/alertsReducer.js
 //See actions/alertActions.js for corresponding actions.
 import uuid from 'uuid';
 

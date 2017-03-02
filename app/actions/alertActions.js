@@ -1,6 +1,4 @@
-/*Taken from https://github.com/alex-paterson/todolist-auth-complete/blob/master/app/actions/alertsActions.js
-  See reducers/alertReducer.js for the matching reducer
-*/
+// See reducers/alertReducer.js for the matching reducer
 
 //Action for adding alert. type: 'ADD_ALERT' will be used in reducer switch statement.
 //text, which is passed into function, will be sent to reducer to create alert in store. 

@@ -1,4 +1,5 @@
-//Taken from https://github.com/alex-paterson/todolist-auth-complete/blob/master/app/actions/authActions.js
+//Boilerplate from 
+//https://github.com/alex-paterson/todolist-auth-complete/blob/master/app/actions/authActions.js
 
 //Axios is a promise based HTTP request library for React Native
 import axios from 'axios';

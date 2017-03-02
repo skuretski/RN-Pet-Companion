@@ -1,4 +1,4 @@
-//Taken from https://github.com/alex-paterson/todolist-auth-complete/blob/master/app/reducers/authReducer.js
+//Boilerplate from https://github.com/alex-paterson/todolist-auth-complete/blob/master/app/reducers/authReducer.js
 
 //Default state for authentication: no user is defined
 var defaultState = {

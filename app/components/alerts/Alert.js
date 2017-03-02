@@ -1,4 +1,4 @@
-// Taken from https://github.com/alex-paterson/todolist-auth-complete/blob/master/app/components/alerts/Alert.js
+//Boilerplate from https://github.com/alex-paterson/todolist-auth-complete/blob/master/app/components/alerts/Alert.js
 
 import React from 'react';
 import {connect} from 'react-redux';
